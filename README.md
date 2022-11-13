@@ -12,3 +12,4 @@
 - Flexbox
 - vite 
 
+-live demo [click here](https://equilibrium-card.vercel.app/) 
